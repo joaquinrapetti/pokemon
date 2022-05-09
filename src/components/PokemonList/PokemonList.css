@@ -1,0 +1,11 @@
+h1 {
+  margin-top: 6rem;
+}
+
+.grid-pokemon {
+  display: grid;
+  width: 90%;
+  margin: 0 auto;
+  grid-template-columns: repeat(5, 1fr);
+  gap: 1rem;
+}
